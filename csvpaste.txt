@@ -14,4 +14,5 @@ AnnualTurnover,Long
 Starttime,TimeOnly
 Bigdecimal,BigDecimal
 Biginteger,BigInteger
-Bigfile
+Bigfiless
+AppCase
